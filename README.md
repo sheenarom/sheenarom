@@ -17,11 +17,8 @@ I am a Web Developer specializing in Front end. I enjoy UI/UX Design
 </div>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</div>
-
-<div align="center">
- <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+ <a href="https://www.linkedin.com/in/www.linkedin.com/in/
+sheena-rom-248064284]/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
  </a>
 </div>
