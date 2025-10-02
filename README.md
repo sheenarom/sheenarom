@@ -23,6 +23,19 @@ sheena-rom-248064284]/">
  </a>
 </div>
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
